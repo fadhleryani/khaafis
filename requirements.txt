@@ -1,0 +1,7 @@
+
+TextGrid==1.5
+numpy<1.24
+pandas==2.2.0
+scipy==1.12.0
+stable-ts==2.15.0
+
